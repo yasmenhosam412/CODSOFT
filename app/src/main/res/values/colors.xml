@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="blue">#604CC3</color>
+    <color name="grey">#F5F5F5</color>
+    <color name="greyD">#9E9999</color>
+    <color name="ora">#FF6600</color>
+
+
+
+</resources>
